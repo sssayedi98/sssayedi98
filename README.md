@@ -48,15 +48,13 @@ I’m actively looking for opportunities as a **Working Student / Intern** in:
 - Data cleaning & analysis workflows  
 
 **Digital Business & Productivity Tools**  
-- Jira  
-- Trello  
+- Jira   
 - Core IMS EE  
 
 **Languages**  
 - English (Fluent)  
 - Turkish (Native)
-- German (A1–A2)  
-- Dari/Pashto (Native)  
+- German (A1–A2)   
   
 
 ---
